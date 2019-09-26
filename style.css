@@ -1,0 +1,28 @@
+.jumbotron {
+    /* Choisis la hauteur ici */
+    height: 400px;
+  
+    /* Tu lui donnes une image de background */
+    background-image: url("img/hero3.jpg");
+  
+    /* Centre l'image et la met bien sur tous les écrans */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.part1 {
+
+    margin: 80px 0 80px 0;
+
+}
+
+.part2 {
+    margin: 60px 0 0 0;
+}
+
+.price {
+
+    margin: 50px 0 80px 0;
+
+}
